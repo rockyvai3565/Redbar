@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "TODO_REPLACE_BASE64_HEADER",
+    "payload": "TODO_REPLACE_BASE64_PAYLOAD",
+    "signature": "TODO_REPLACE_BASE64_SIGNATURE"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Redbar",
+    "homeUrl": "https://example.com/",
+    "iconUrl": "https://example.com/assets/icon.png",
+    "splashImageUrl": "https://example.com/assets/splash.png",
+    "splashBackgroundColor": "#020617",
+    "subtitle": "Budget as a bar",
+    "description": "A daily budget tracker that is just one bold bar. Type an amount to spend and watch your bar shrink. Set budget with budget: 120.",
+    "primaryCategory": "finance",
+    "tags": [
+      "fun",
+      "simple",
+      "utility"
+    ],
+    "heroImageUrl": "https://example.com/assets/hero.png",
+    "ogTitle": "Redbar",
+    "ogDescription": "A daily budget tracker that is just one bold bar. Type an amount to spend and watch your bar shrink. Set budget with budget: 120.",
+    "ogImageUrl": "https://example.com/assets/hero.png",
+    "screenshotUrls": [
+      "https://example.com/assets/hero.png"
+    ],
+    "noindex": true
+  }
+}
